@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+
+h1 {
+  font-family: 'Audiowide';
+  font-weight: 700;
+  font-style: bold;
+  font-size: 50px;
+  line-height: 2.15;
+  letter-spacing: -.02em;
+  color: #0ccac4;
+  }
